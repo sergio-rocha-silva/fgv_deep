@@ -1,2 +1,2 @@
 # fgv_deep
-Course Deep Learning and Applications
+FGV Summer Course - Deep Learning and Applications
